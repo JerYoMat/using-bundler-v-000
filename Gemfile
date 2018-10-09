@@ -3,7 +3,7 @@
     gem "rspec"
     end 
     gem "sinatra", "1.4.4"
-    gem "hashie"
+    gem "hashie" '~>2.0'
     gem "octokit"
     
      
