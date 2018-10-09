@@ -11,7 +11,7 @@
     gem "pry"
     end
     
-    git 'git://github.com/awesome-print/awesome_print.git' do
+    git 'www.github.com/awesome-print/awesome_print.git' do
   gem 'railties'
   gem 'actionpack'
   gem 'activemodel'
