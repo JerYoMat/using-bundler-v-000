@@ -13,4 +13,4 @@
     
    gem 'awesome_print', git: '//github.com/awesome-print/awesome_print.git'
 
-end
+
