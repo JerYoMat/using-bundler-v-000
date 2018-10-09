@@ -3,8 +3,8 @@
     gem "rspec"
     end 
     gem "sinatra", "1.4.4"
-    gem "hashie" '~>2.0'
-    gem "octokit"
+    gem "hashie" 
+    gem "octokit" '~>2.0'
     
      
     group :development do
