@@ -11,6 +11,6 @@
     gem "pry"
     end
     
-   gem 'awesome_print', git: 'https://github.com/rack/rack'
+   gem 'awesome_print', git: '//github.com/awesome-print/awesome_print.git'
 
 end
